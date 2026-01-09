@@ -37,16 +37,16 @@ function SignInPage() {
                     </div>
                     <h1 className={styles.brandTitle}>Kodryx Usecase Hub</h1>
                     <p className={styles.brandDescription}>
-                        Discover 101 real-world Gen AI use cases from the world's leading organizations
+                        Discover 600+ real-world Gen AI use cases from the world's leading organizations
                     </p>
 
                     <div className={styles.statsContainer}>
                         <div className={styles.statBox}>
-                            <div className={styles.statNumber}>101</div>
+                            <div className={styles.statNumber}>600+</div>
                             <div className={styles.statLabel}>Use Cases</div>
                         </div>
                         <div className={styles.statBox}>
-                            <div className={styles.statNumber}>40+</div>
+                            <div className={styles.statNumber}>30+</div>
                             <div className={styles.statLabel}>Industries</div>
                         </div>
                     </div>

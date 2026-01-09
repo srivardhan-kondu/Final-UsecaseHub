@@ -1,7 +1,7 @@
 [
   {
     "usecase_id": 2,
-    "title": "Unify online and in-store retail",
+    "title": "Enterprise Unified Commerce for Retail",
     "summary": "Unify online and in-store retail",
     "sections": {
       "business_challenge": {
@@ -29,7 +29,7 @@
   },
   {
     "usecase_id": 3,
-    "title": "Give your store managers ways",
+    "title": "Real-Time Inventory Recommendations",
     "summary": "Give your store managers ways",
     "sections": {
       "business_challenge": {
@@ -56,7 +56,7 @@
   },
   {
     "usecase_id": 4,
-    "title": "Make it easy for users to find",
+    "title": "AI-Powered Personalized Search Services",
     "summary": "Make it easy for users to find",
     "sections": {
       "business_challenge": {
@@ -83,7 +83,7 @@
   },
   {
     "usecase_id": 5,
-    "title": "Modernize in-store operations",
+    "title": "Retail Operations Automation with AI Vision",
     "summary": "Modernize in-store operations",
     "sections": {
       "business_challenge": {
@@ -110,7 +110,7 @@
   },
   {
     "usecase_id": 6,
-    "title": "Create an assistant for a better",
+    "title": "Visual AI Customer Support Platform",
     "summary": "Create an assistant for a better",
     "sections": {
       "business_challenge": {
@@ -137,7 +137,7 @@
   },
   {
     "usecase_id": 7,
-    "title": "Write differentiated product",
+    "title": "Automated Product Content Generation Platform",
     "summary": "Write differentiated product",
     "sections": {
       "business_challenge": {
@@ -163,7 +163,7 @@
   },
   {
     "usecase_id": 8,
-    "title": "Help users find your products",
+    "title": "Image-Based Product Discovery Services",
     "summary": "Help users find your products",
     "sections": {
       "business_challenge": {
@@ -190,7 +190,7 @@
   },
   {
     "usecase_id": 9,
-    "title": "Build a real-time product",
+    "title": "Real-Time Personalized Recommendation Engine",
     "summary": "Build a real-time product",
     "sections": {
       "business_challenge": {
@@ -217,7 +217,7 @@
   },
   {
     "usecase_id": 10,
-    "title": "Quickly identify trends and",
+    "title": "AI-Powered Customer Feedback Analysis",
     "summary": "Quickly identify trends and",
     "sections": {
       "business_challenge": {
